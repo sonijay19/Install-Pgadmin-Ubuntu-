@@ -1,0 +1,20 @@
+Step 1 :- 
+
+
+
+Now Install Pgadmin
+
+step 1:- sudo apt-get install wget ca-certificates
+
+step 2:- wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+
+step 3:- sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+
+step 4:- sudo apt-get update
+
+step 5:- sudo apt install pgadmin4 pgadmin4-apache2
+
+Show user email :- erase all and enter your email and press tab and enter 
+                    and write your password
+
+Then show in Application show pgadmin4 enter and start pgadmin in "UBUNTU"
