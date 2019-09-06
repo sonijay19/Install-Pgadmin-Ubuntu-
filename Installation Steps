@@ -1,7 +1,4 @@
-Step 1 :- 
-
-
-
+Step 1 :- Install PostgresSQL server in your machine
 Now Install Pgadmin
 
 step 1:- sudo apt-get install wget ca-certificates
